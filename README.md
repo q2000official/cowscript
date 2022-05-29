@@ -1,2 +1,4 @@
-# cowscript
-A meme JavaScript Library
+# CowScript 
+## The cute meme JS Library
+
+![logo](./logo.png)
