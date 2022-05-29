@@ -1,4 +1,4 @@
 # CowScript 
-## The cute meme JS Library
+## The JS Library bitten by a cow 👀
 
-<img src="logo.png" style="width: 150px; height: 150px;"
+
